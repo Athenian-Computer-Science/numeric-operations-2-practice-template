@@ -5,5 +5,9 @@
 #
 #############################
 
-# Fix the code below:
+# Fix (and finish) the code below.
+# Optional - can you do it in only 2 lines?
 
+number = "Enter a number:
+round(num1, hundredths)
+print()

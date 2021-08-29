@@ -7,6 +7,12 @@ Use this repository (repo, for short) to complete your practice for Lesson 2.4.
 * [Edpuzzle practice](src/edpuzzle_practice.py) 🪁
   * Use this for practice during the Edpuzzle video. You can use the main window or the Python Console (see button at the bottom of the PyCharm window)
 
+#### ReadingBat
+* [modulo](https://www.readingbat.com/content/python/Athenian:%20Variables/mod1) 🪁
+* [floor division](https://www.readingbat.com/content/python/Athenian:%20Variables/floor_division1) 🚁
+* [rounding](https://www.readingbat.com/content/python/Athenian:%20Variables/round1)   🪁
+* [absolute value](https://www.readingbat.com/content/python/Athenian:%20Variables/abs_value1) 🚁
+* 
 #### Fix & Write Code  
 * [Fix the Code #1](src/fix_code_1.py) 🪁
   * Fix the code so it collects a decimal number from the user and rounds it to the hundredths place. (Note: the round function will not add decimal places!)

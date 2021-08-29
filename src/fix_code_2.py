@@ -5,7 +5,9 @@
 #
 #############################
 
-# Fix the line of code below:
-
-geometry = math class
-print "My favorite class is (math_class)!"
+# Fix & finish the program below. Feel free to condense it too!
+num1 = input(enter a number: )
+num2 = input(enter another number: )
+quotient =
+remainder =
+print("The quotient is ___ and the remainder is ___")
