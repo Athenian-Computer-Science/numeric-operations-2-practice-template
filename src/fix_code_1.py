@@ -5,6 +5,5 @@
 #
 #############################
 
-# Fix the line of code below:
+# Fix the code below:
 
-Print Welcome to CompSci!

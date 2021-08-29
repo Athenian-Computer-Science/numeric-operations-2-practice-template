@@ -4,8 +4,8 @@
       "name": "Fix Code 1",
       "setup": "",
       "run": "python3 src/fix_code_1.py",
-      "input": "2",
-      "output": "2.00",
+      "input": "2.074",
+      "output": "2.07",
       "comparison": "included",
       "timeout": 10,
       "points": 0
@@ -14,8 +14,8 @@
       "name": "Fix Code 1.2",
       "setup": "",
       "run": "python3 src/fix_code_1.py",
-      "input": "6.798",
-      "output": "6.80",
+      "input": "6.786",
+      "output": "6.79",
       "comparison": "included",
       "timeout": 10,
       "points": 0
@@ -35,7 +35,7 @@
       "setup": "",
       "run": "python3 src/write_code_1.py",
       "input": "12\r\n8",
-      "output": "The difference is 4.",
+      "output": "The difference is 4.0.",
       "comparison": "included",
       "timeout": 10,
       "points": 0
@@ -45,7 +45,7 @@
       "setup": "",
       "run": "python3 src/fix_code_2.py",
       "input": "34\r\n5\r\n",
-      "output": "The quotient is 6 and the remainder is 4",
+      "output": "The quotient is 6 and the remainder is 4.0.",
       "comparison": "included",
       "timeout": 10,
       "points": 0
